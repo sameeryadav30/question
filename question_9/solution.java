@@ -1,4 +1,4 @@
-package question;
+package question.question_9;
 
 class Solution {
     public boolean isPalindrome(int x) {
